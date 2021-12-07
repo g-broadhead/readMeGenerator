@@ -1,4 +1,4 @@
-# df
+# ReadMe Generator
 ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/g-broadhead/readMeGenerator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/g-broadhead/readMeGenerator?style=flat&logo=appveyor) ![Badge for GitHub commit activity](https://img.shields.io/github/commit-activity/w/g-broadhead/readMeGenerator?color=purple)
 
 
@@ -12,22 +12,22 @@
   - [Questions](#questions)
 
   ## Description
-  sfs
+  This is a project to create a good ReadMe.md txt generator.
   ## Installation
   *Steps required to install project and how to get the development environment running:*
-  sdf
+  N/A
 
   ## Usage
   *Instructions and examples for use:*
-  s
+  N/A
 
   ## Contributing
   *If you would like to contribute it, you can follow these guidelines for how to do so.*
-  df
+  N/A
 
   ## Tests
   *Tests for application and how to run them:*
-  sfsf
+  N/A
 
   ## License
   GNU AGPLv3
