@@ -1,5 +1,4 @@
 // Packages
-// const util = require('util');
 const fs = require('fs');
 const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown.js');
@@ -20,7 +19,7 @@ const questions = [
   {
     type: 'input',
     name: 'title',
-    message: 'A project title is needed.'
+    message: 'Please provide a project title.'
   },
   {
     type: 'input',
@@ -87,5 +86,3 @@ async function init() {
 
 // function call to initialize program
 init();
-
-
